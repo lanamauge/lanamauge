@@ -9,15 +9,15 @@ I’m eager to leverage my design-driven perspective to build innovative and fun
 ## Languages and Tools
 
 <p>
-  <img src="images/EXPRESS.png" alt="Express" height="60"/>
-  <img src="images/JS.png" alt="JavaScript" height="60"/>
-  <img src="images/NEXT.png" alt="Next.js" height="60"/>
-  <img src="images/NODE.png" alt="Node.js" height="60"/>
-  <img src="images/REACT.png" alt="React" height="60"/>
-  <img src="images/POSTGRES.png" alt="Postgres" height="60"/>
-  <img src="images/FIGMA.png" alt="Figma" height="60"/>
-  <img src="images/ADOBE.png" alt="Adobe" height="60"/>
-  <img src="images/TRELLO.png" alt="Trello" height="60"/>
+  <img src="images/EXPRESS.png" alt="Express" height="47"/>
+  <img src="images/JS.png" alt="JavaScript" height="47"/>
+  <img src="images/NEXT.png" alt="Next.js" height="47"/>
+  <img src="images/NODE.png" alt="Node.js" height="47"/>
+  <img src="images/REACT.png" alt="React" height="47"/>
+  <img src="images/POSTGRES.png" alt="Postgres" height="47"/>
+  <img src="images/FIGMA.png" alt="Figma" height="47"/>
+  <img src="images/ADOBE.png" alt="Adobe" height="47"/>
+  <img src="images/TRELLO.png" alt="Trello" height="47"/>
 </p>
 
 ## Let's connect! 🔗
