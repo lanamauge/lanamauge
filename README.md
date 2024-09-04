@@ -7,9 +7,18 @@ My design expertise allows me to create visually compelling and user-centric dig
 I’m eager to leverage my design-driven perspective to build innovative and functional websites.
 
 ## Languages and Tools
-  <img src="images/EXPRESS.png" alt="Express" height="70"/><img src="images/JS.png" alt="JavaScript" height="70"/><img src="images/NEXT.png" alt="Next.js" height="70"/>
-  <img src="images/NODE.png" alt="Node.js" height="70"/><img src="images/REACT.png" alt="React" height="70"/><img src="images/POSTGRES.png" alt="Postgres" height="70"/><img src="images/FIGMA.png" alt="Figma" height="70"/><img src="images/ADOBE.png" alt="Adobe" height="70"/><img src="images/TRELLO.png" alt="Trello" height="70"/>
 
+<p>
+  <img src="images/EXPRESS.png" alt="Express" height="70"/>
+  <img src="images/JS.png" alt="JavaScript" height="70"/>
+  <img src="images/NEXT.png" alt="Next.js" height="70"/>
+  <img src="images/NODE.png" alt="Node.js" height="70"/>
+  <img src="images/REACT.png" alt="React" height="70"/>
+  <img src="images/POSTGRES.png" alt="Postgres" height="70"/>
+  <img src="images/FIGMA.png" alt="Figma" height="70"/>
+  <img src="images/ADOBE.png" alt="Adobe" height="70"/>
+  <img src="images/TRELLO.png" alt="Trello" height="70"/>
+</p>
 
 ## Let's connect! 🔗
 
