@@ -1,3 +1,42 @@
+# Hey 👋🏾
+
+I’m Lana! I have a background in Graphic Communication Design and am a proud student of the School of Code. I’m thrilled to embark on my journey in tech. 
+
+My design expertise allows me to create visually compelling and user-centric digital experiences, while my coding skills, honed at SOC, empower me to tackle both front and back-end challenges.
+
+I’m eager to leverage my design-driven perspective to build innovative and functional websites.
+
+## Languages and Tools
+  <img src="images/EXPRESS.png" alt="Express" height="70"/><img src="images/JS.png" alt="JavaScript" height="70"/><img src="images/NEXT.png" alt="Next.js" height="70"/>
+  <img src="images/NODE.png" alt="Node.js" height="70"/><img src="images/REACT.png" alt="React" height="70"/><img src="images/POSTGRES.png" alt="Postgres" height="70"/><img src="images/FIGMA.png" alt="Figma" height="70"/><img src="images/ADOBE.png" alt="Adobe" height="70"/><img src="images/TRELLO.png" alt="Trello" height="70"/>
+
+
+## Let's connect! 🔗
+
+<a href="https://www.linkedin.com/in/lana-maug%C3%A9-tharpe-493778224/">
+  <img src="images/linkedin_logo.png" alt="LinkedIn" height="30"/>
+</a>
+
+
+<!--
+**lanamauge/lanamauge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+
+///////////////////////////////////////////////
+
+
 <style>
 @keyframes slideIn {
   0% { transform: translateX(-100%); opacity: 0; }
@@ -48,29 +87,5 @@ I’m eager to leverage my design-driven perspective to build innovative and fun
   <img src="images/linkedin_logo.png" alt="LinkedIn" height="30"/>
 </a>
 
-<!--
-**lanamauge/lanamauge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)
-
-
-<h2> 🤳 Connect with me:</h2> 
-
-## Hi there 👋
 -->
