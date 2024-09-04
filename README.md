@@ -9,15 +9,15 @@ I’m eager to leverage my design-driven perspective to build innovative and fun
 ## Languages and Tools
 
 <p>
-  <img src="images/EXPRESS.png" alt="Express" height="70"/>
-  <img src="images/JS.png" alt="JavaScript" height="70"/>
-  <img src="images/NEXT.png" alt="Next.js" height="70"/>
-  <img src="images/NODE.png" alt="Node.js" height="70"/>
-  <img src="images/REACT.png" alt="React" height="70"/>
-  <img src="images/POSTGRES.png" alt="Postgres" height="70"/>
-  <img src="images/FIGMA.png" alt="Figma" height="70"/>
-  <img src="images/ADOBE.png" alt="Adobe" height="70"/>
-  <img src="images/TRELLO.png" alt="Trello" height="70"/>
+  <img src="images/EXPRESS.png" alt="Express" height="60"/>
+  <img src="images/JS.png" alt="JavaScript" height="60"/>
+  <img src="images/NEXT.png" alt="Next.js" height="60"/>
+  <img src="images/NODE.png" alt="Node.js" height="60"/>
+  <img src="images/REACT.png" alt="React" height="60"/>
+  <img src="images/POSTGRES.png" alt="Postgres" height="60"/>
+  <img src="images/FIGMA.png" alt="Figma" height="60"/>
+  <img src="images/ADOBE.png" alt="Adobe" height="60"/>
+  <img src="images/TRELLO.png" alt="Trello" height="60"/>
 </p>
 
 ## Let's connect! 🔗
@@ -44,6 +44,9 @@ Here are some ideas to get you started:
 
 
 ///////////////////////////////////////////////
+
+![Lana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanamauge&show_icons=true&count_private=true&hide_title=true)
+
 
 
 <style>
