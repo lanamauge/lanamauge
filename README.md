@@ -4,7 +4,7 @@
 
 ✏️ My design expertise allows me to create visually compelling and user-centric digital experiences, while my coding skills, honed at the [School of Code](https://schoolofcode.co.uk/), empower me to tackle both front and back-end challenges.
 
-I’m eager to leverage my design-driven perspective to build innovative and functional websites.
+🚀 I’m eager to leverage my design-driven perspective to build innovative and functional websites.
 
 ## Languages and Tools
 
