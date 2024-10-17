@@ -1,8 +1,8 @@
 # Hey 👋🏾
 
-I’m Lana! I have a background in Graphic Communication Design and am a proud student of the School of Code. I’m thrilled to embark on my journey in tech. 
+👩🏾‍💻 I’m Lana! I have a background in Graphic Communication Design and am a proud student of the School of Code. I’m thrilled to embark on my journey in tech. 
 
-My design expertise allows me to create visually compelling and user-centric digital experiences, while my coding skills, honed at SOC, empower me to tackle both front and back-end challenges.
+✏️ My design expertise allows me to create visually compelling and user-centric digital experiences, while my coding skills, honed at the [School of Code](https://schoolofcode.co.uk/), empower me to tackle both front and back-end challenges.
 
 I’m eager to leverage my design-driven perspective to build innovative and functional websites.
 
@@ -17,7 +17,6 @@ I’m eager to leverage my design-driven perspective to build innovative and fun
   <img src="images/POSTGRES.png" alt="Postgres" height="47"/>
   <img src="images/FIGMA.png" alt="Figma" height="47"/>
   <img src="images/ADOBE.png" alt="Adobe" height="47"/>
-  <img src="images/TRELLO.png" alt="Trello" height="47"/>
 </p>
 
 ## Let's connect! 🔗
