@@ -1,6 +1,6 @@
 # Hey 👋🏾
 
-👩🏾‍💻 I’m Lana! I have a background in Graphic Communication Design and am a proud student of the School of Code. I’m thrilled to embark on my journey in tech. 
+👩🏾‍💻 I’m Lana! I have a background in Graphic Communication Design and am a proud ex-student of the School of Code. I'm thrilled to embark on my journey in tech. 
 
 ✏️ My design expertise allows me to create visually compelling and user-centric digital experiences, while my coding skills, honed at the [School of Code](https://schoolofcode.co.uk/), empower me to tackle both front and back-end challenges.
 
